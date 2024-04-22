@@ -1,0 +1,33 @@
+html{
+  background: rgb(30,13,31);
+  background: linear-gradient(180deg, rgba(30,13,31,1) 0%, rgb(105, 85, 19) 100%);
+  
+}
+h1{
+    width: 40%;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    margin-left: 30%;
+}
+
+header {
+  background-color: rgb(30, 13, 31);
+  padding: 4%;
+ 
+}
+body{
+ padding: 0.5%;
+}
+img{
+  padding: 3%; 
+  margin-left: 2.5%;
+}
+footer{
+  background-color: rgb(30,13,31);
+  width: 100%;
+  margin-top: 7%;
+  margin-bottom: 0;
+  padding-bottom: 10%;
+ }
